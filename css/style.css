@@ -10,7 +10,7 @@ h1{
   text-align: center;
 }
 .header{
-  background-image:
+  background-image: url(/Users/angelachristian/bd/resources/images/the-flatiron-building.png)
 }
 
 h4{
@@ -31,6 +31,10 @@ h3{
   font-weight: bold;
 }
 
+.icon{
+  text-align: center;
+}
+
 .description{
   font-size: 14px;
   text-align: center;
@@ -40,6 +44,8 @@ h3{
   font-size: 32px;
   font-weight: bold;
   color: white;
+  background-image: url(/Users/angelachristian/bd/resources/images/the-flatiron-building.png);
+  text-align: center;
 }
 
 .footer{
